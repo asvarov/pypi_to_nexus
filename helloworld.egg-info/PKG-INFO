@@ -1,6 +1,6 @@
 Metadata-Version: 1.0
 Name: helloworld
-Version: 1.1
+Version: 1.2
 Summary: UNKNOWN
 Home-page: UNKNOWN
 Author: UNKNOWN
@@ -8,7 +8,7 @@ Author-email: UNKNOWN
 License: UNKNOWN
 Description: Description
         ===========
-        An example Hello World project.
+        An example Hello Worldproject.
         
         #pip install twine
         #python setup.py sdist - prepare package
