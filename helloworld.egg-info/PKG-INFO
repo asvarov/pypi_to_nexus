@@ -1,0 +1,16 @@
+Metadata-Version: 1.0
+Name: helloworld
+Version: 1.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
+Author: UNKNOWN
+Author-email: UNKNOWN
+License: UNKNOWN
+Description: Description
+        ===========
+        An example Hello World project.
+        
+        #pip install twine
+        #python setup.py sdist - prepare package
+        #twine upload dist/*.tar.gz - upload
+Platform: UNKNOWN

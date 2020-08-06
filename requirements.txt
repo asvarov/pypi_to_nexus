@@ -1,0 +1,2 @@
+--index-url http://192.168.10.10:8081/repository/pypi-group/simple --trusted-host 192.168.10.10
+requests==2.24.0
